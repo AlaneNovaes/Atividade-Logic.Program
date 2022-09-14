@@ -1,7 +1,11 @@
-Repositorio para atividades da UC8 Logica de Programção
-Atividade Online 1 (Fluxograma)
-Avidade Online 2 (sistema eventos)
-Encontro Remoto 1
+Repositorio para atividades da UC8 Logica de Programção.
+
+Atividade Online 1 (Fluxograma);
+
+Encontro Remoto 1;
+
+Avidade Online 2 (sistema eventos);
+
 Encontro Remoto 2.
 
 Ferramentas e Liguagem utilizadas:
