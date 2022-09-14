@@ -11,9 +11,6 @@ Encontro Remoto 2.
 Ferramentas e Liguagem utilizadas:
 
 Criado fluxograma para representar o desenvolvimento de algoritmo para um sistema de cadastro de eventos, utilizado a ferramenta Draw.io.
-
 Implementado sistema de cadastro de eventos, por meio da linguagem JavaScript no VSC.
-
 Codificado sistema de contagem de peças, aplicando a linguagem JavaScript no VSC.
-
 Codificado sistema de contagem e classificação de alunos, aplicando a linguagem JavaScript no VSC.
